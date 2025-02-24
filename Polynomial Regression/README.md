@@ -1,2 +1,3 @@
 # ML_Polynomial-Regression
-a Machine Learning project about Regression
+
+In this Jupyter notebook, a noisy polynomial function is being recovered by different models.
